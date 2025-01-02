@@ -1,0 +1,93 @@
+.orange {
+    color: #f97134;
+}
+
+.violet {
+    color: #7851A9;
+}
+
+.amatic-sc {
+    font-family: 'Amatic SC', serif;
+}
+
+.image-format {
+    max-width: 100%;
+    height: auto;
+}
+
+.page-header {
+    text-align: center;
+    font-size: 4.8rem;
+    font-weight: 800;
+    text-align: center;
+    margin: 0.1em 0 0.2em 0;
+}
+
+.score {
+    text-align: center;
+    font-size: 4.0rem;
+    font-weight: 800;
+}
+
+.game-display-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    align-tracks: center;
+    flex-wrap: wrap;
+    min-width: 100%;
+}
+
+.container {
+    flex: 1 1 auto;
+    padding: 0.8rem;
+    border: 0.2rem solid; 
+    border-radius: 1rem;
+    margin: 1rem 3.5rem 0;
+    display: flex;
+    flex-direction: column;
+    max-width: 25%;
+}
+
+.human,
+.computer {
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 500;
+}
+
+.human {
+    color: #7851A9;
+    border-color: #7851A9;
+}
+
+.computer {
+    color: #f97134;
+    border-color: #f97134;
+}
+
+.button-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    max-width: 10%;
+    margin: 2rem 1rem 0;
+    border-radius: 1.0rem;
+    border-width: 0.2rem;
+}
+
+.rock {
+    border-color: #87b6dc;
+}
+
+.paper {
+    border-color: #ae6a68;
+}
+
+.scissors {
+    border-color: #dcb654;
+}
