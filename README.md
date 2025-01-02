@@ -1,3 +1,6 @@
 # rock-paper-scissors
-Probably the easiest project I have done so far.
-But still a great exercise to get used to the javascript syntax and I will come back to make this a fully fledged website with a proper user interface after some time.
+Making this UI took way too long!
+But it was a really fun and educational experience nonetheless and I have finally made my very first complete webpage with html, css and js.
+
+In case anyone wants to check it out, here's the link!
+https://dreambot706.github.io/rock-paper-scissors/
